@@ -1,6 +1,6 @@
 # 13. Домашнее задание к лекции «Redux Saga»
 
-[[GithubPages](https://igor-chazov.github.io/ra-hw-13_saga_3-newsfeed)]
+[![Build status](https://ci.appveyor.com/api/projects/status/g8ds2gda210gxv4l?svg=true)](https://ci.appveyor.com/project/igor-chazov/ra-hw-13-saga-3-newsfeed) [[GithubPages](https://igor-chazov.github.io/ra-hw-13_saga_3-newsfeed)]
 
 ---
 
